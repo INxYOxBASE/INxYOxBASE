@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @INxYOxBASE
+- 👀 I’m interested in Pi projects/3d printing
+- 🌱 I’m currently learning DNS server stuff
+- 💞️ I’m not currently looking to collaborate as I don't know very much
+- 📫 How to reach me no thanks
